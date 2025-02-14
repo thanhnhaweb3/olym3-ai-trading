@@ -6,6 +6,7 @@ Video:
 
 https://www.youtube.com/playlist?list=PLHb1gWDYXoqMhrmNNkGDIil68cE5dId6b
 
+Demo: https://aitrading.olym3.com
 
 ### Features
 - **AI-powered trading bots**: AI-driven algorithms to analyze market trends and execute trades.
